@@ -24,6 +24,7 @@ func reverse(x int) int {
 	}
 	resultStr := string(result)
 	if xLen >= maxLen && resultStr > maxN {
+		// Could implement custom lexicographical comparison here.
 		return 0
 	}
 	resultStr = sign + resultStr
