@@ -23,8 +23,7 @@ func reverse(x int) int {
 		result[xLen-1-i] = rune(xStr[i])
 	}
 	resultStr := string(result)
-	if xLen >= maxLen && resultStr > maxN {
-		// Could implement custom lexicographical comparison here.
+	if xLen > maxLen || (xLen == maxLen && resultStr > maxN) {
 		return 0
 	}
 	resultStr = sign + resultStr
