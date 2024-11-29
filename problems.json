@@ -2,16 +2,41 @@
   {
     "name": "Add Two Numbers",
     "url": "https://leetcode.com/problems/add-two-numbers/",
-    "description": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list."
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-add-two-numbers.png"
   },
   {
     "name": "Longest Substring Without Repeating Characters",
     "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-    "description": "Given a string `s`, find the length of the longest substring without repeating characters."
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-longest-substring-without-repeating-characters.png"
   },
   {
     "name": "ZigZag Conversion",
     "url": "https://leetcode.com/problems/zigzag-conversion/",
-    "description": "The string <code>\"PAYPALISHIRING\"</code> is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)<blockquote>P   A   H   N<br>A P L S I I G<br>Y   I   R</blockquote>And then read line by line: <code>\"PAHNAPLSIIGYIR</code><br>Write the code that will take a string and make this conversion given a number of rows:<blockquote>string convert(string s, int numRows);</blockquote>"
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-zigzag-conversion.png"
+  },
+  {
+    "name": "String to Integer (atoi)",
+    "url": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-string-to-integer-atoi.png"
+  },
+  {
+    "name": "Reverse Integer",
+    "url": "https://leetcode.com/problems/reverse-integer/",
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-reverse-integer.png"
+  },
+  {
+    "name": "Container With Most Water",
+    "url": "https://leetcode.com/problems/container-with-most-water/",
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-container-with-most-water.png"
+  },
+  {
+    "name": "Roman to Integer",
+    "url": "https://leetcode.com/problems/roman-to-integer/",
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-roman-to-integer.png"
+  },
+  {
+    "name": "Integer to Roman",
+    "url": "https://leetcode.com/problems/integer-to-roman/",
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-integer-to-roman.png"
   }
 ]
