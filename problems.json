@@ -12,6 +12,6 @@
   {
     "name": "ZigZag Conversion",
     "url": "https://leetcode.com/problems/zigzag-conversion/",
-    "description": "The string `\"PAYPALISHIRING\"` is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)\n<blockquote>P   A   H   N\nA P L S I I G\nY   I   R</blockquote>\nAnd then read line by line: `\"PAHNAPLSIIGYIR\"`\n\nWrite the code that will take a string and make this conversion given a number of rows:\n>string convert(string s, int numRows);"
+    "description": "The string <code>\"PAYPALISHIRING\"</code> is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)<blockquote>P   A   H   N<br>A P L S I I G<br>Y   I   R</blockquote>And then read line by line: <code>\"PAHNAPLSIIGYIR</code><br>Write the code that will take a string and make this conversion given a number of rows:<blockquote>string convert(string s, int numRows);</blockquote>"
   }
 ]
