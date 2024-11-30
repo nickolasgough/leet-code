@@ -4,8 +4,6 @@ import (
 	"slices"
 )
 
-// https://leetcode.com/problems/3sum/
-
 func threeSum(nums []int) [][]int {
 	slices.Sort(nums)
 	firstPositiveIndex := slices.IndexFunc(nums, func(n int) bool {

@@ -4,8 +4,6 @@ import (
 	"strconv"
 )
 
-// https://leetcode.com/problems/integer-to-roman/
-
 type romanNumeral struct {
 	Letter string
 	Value  int

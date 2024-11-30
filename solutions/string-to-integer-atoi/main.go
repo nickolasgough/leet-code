@@ -5,8 +5,6 @@ import (
 	"strings"
 )
 
-// https://leetcode.com/problems/string-to-integer-atoi/
-
 func myAtoi(s string) int {
 	s = strings.Trim(s, " ")
 	sLen := len(s)

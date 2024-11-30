@@ -2,41 +2,49 @@
   {
     "name": "Add Two Numbers",
     "url": "https://leetcode.com/problems/add-two-numbers/",
-    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-add-two-numbers.png"
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-add-two-numbers.png",
+    "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/solutions/add-two-numbers/main.go"
   },
   {
     "name": "Longest Substring Without Repeating Characters",
     "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-longest-substring-without-repeating-characters.png"
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-longest-substring-without-repeating-characters.png",
+    "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/solutions/longest-substring-without-repeating-characters/main.go"
   },
   {
     "name": "ZigZag Conversion",
     "url": "https://leetcode.com/problems/zigzag-conversion/",
-    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-zigzag-conversion.png"
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-zigzag-conversion.png",
+    "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/solutions/zigzag-conversion/main.go"
   },
   {
     "name": "String to Integer (atoi)",
     "url": "https://leetcode.com/problems/string-to-integer-atoi/",
-    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-string-to-integer-atoi.png"
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-string-to-integer-atoi.png",
+    "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/solutions/string-to-integer-atoi/main.go"
   },
   {
     "name": "Reverse Integer",
     "url": "https://leetcode.com/problems/reverse-integer/",
-    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-reverse-integer.png"
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-reverse-integer.png",
+    "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/solutions/reverse-integer/main.go"
   },
   {
     "name": "Container With Most Water",
     "url": "https://leetcode.com/problems/container-with-most-water/",
-    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-container-with-most-water.png"
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-container-with-most-water.png",
+    "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/solutions/container-with-most-water/main.go"
   },
   {
     "name": "Roman to Integer",
     "url": "https://leetcode.com/problems/roman-to-integer/",
-    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-roman-to-integer.png"
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-roman-to-integer.png",
+    "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/solutions/roman-to-integer/main.go"
   },
   {
     "name": "Integer to Roman",
     "url": "https://leetcode.com/problems/integer-to-roman/",
-    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-integer-to-roman.png"
+    "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-integer-to-roman.png",
+    "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/solutions/integer-to-roman/main.go"
   }
 ]

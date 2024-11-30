@@ -4,8 +4,6 @@ import (
 	"strconv"
 )
 
-// https://leetcode.com/problems/reverse-integer/
-
 func reverse(x int) int {
 	sign := ""
 	maxN := "2147483647"

@@ -1,7 +1,5 @@
 package main
 
-// https://leetcode.com/problems/roman-to-integer/
-
 type romanNumeral struct {
 	Letter  rune
 	Value   int
