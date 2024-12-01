@@ -18,7 +18,7 @@
     "url": "https://leetcode.com/problems/zigzag-conversion/",
     "imageURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/descriptions/lc-zigzag-conversion.png",
     "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/solutions/zigzag-conversion/main.go",
-    "descriptionHTML": "The string <code>\"PAYPALISHIRING\"</code> is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)<blockquote>P   A   H   N<br>A P L S I I G<br>Y   I   R</blockquote>And then read line by line: <code>\"PAHNAPLSIIGYIR\"</code><br>Write the code that will take a string and make this conversion given a number of rows:>string convert(string s, int numRows);"
+    "descriptionHTML": "<p>The string <code>\"PAYPALISHIRING\"</code> is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)</p><blockquote>P   A   H   N<br>A P L S I I G<br>Y   I   R</blockquote><p>And then read line by line: <code>\"PAHNAPLSIIGYIR\"</code></p><p>Write the code that will take a string and make this conversion given a number of rows:</p><blockquote>string convert(string s, int numRows);</blockquote>"
   },
   {
     "name": "String to Integer (atoi)",
