@@ -52,5 +52,11 @@
     "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
     "descriptionHTML": "<p>Given a string containing digits from <code>2-9</code> inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.</p><table><tr><td>1: <code>empty</code></td><td>2: abc</td><td>3: def</td></tr><tr><td>4: ghi</td><td>5: jkl</td><td>6: mno</td></tr><tr><td>7: pqrs</td><td>8: tuv</td><td>9: wxyz</td></tr></table><p>A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.</p>",
     "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/letter-combinations-of-a-phone-number/main.go"
+  },
+  {
+    "name": "Remove Nth Node From End of List",
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "descriptionHTML": "<p>Given the <code>head</code> of a linked list, remove the <code>nth</code> node from the end of the list and return its head.</p>",
+    "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/remove-nth-node-from-end-of-list/main.go"
   }
 ]
