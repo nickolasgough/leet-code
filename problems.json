@@ -58,5 +58,11 @@
     "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
     "descriptionHTML": "<p>Given the <code>head</code> of a linked list, remove the <code>nth</code> node from the end of the list and return its head.</p>",
     "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/remove-nth-node-from-end-of-list/main.go"
+  },
+  {
+    "name": "Generate Parentheses",
+    "url": "https://leetcode.com/problems/generate-parentheses/",
+    "descriptionHTML": "<p>Given <code>n</code> pairs of parentheses, write a function to generate all combinations of well-formed parentheses.</p>",
+    "solutionURL": "https://raw.githubusercontent.com/nickolasgough/leet-code/master/generate-parentheses/main.go"
   }
 ]
