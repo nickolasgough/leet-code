@@ -1,11 +1,5 @@
 package main
 
-import "fmt"
-
-func main() {
-	fmt.Printf("%+v\n", generateParenthesis(4))
-}
-
 func generateParenthesis(n int) []string {
 	resultMap := generateParenthesisHelper(n)
 	result := make([]string, 0)
